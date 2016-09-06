@@ -1,0 +1,6 @@
+.DS_Store
+bin
+pkg
+dist
+src/golang.org
+src/vendor
